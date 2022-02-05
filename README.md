@@ -1,4 +1,21 @@
 
+        <!doctype html>
+<html>
+
+    <head>
+        <!-- Metadados -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="formulario.css" media="screen">
+
+        <!-- Título da página (aparece na aba) -->
+        <title>Cadastro</title>
+    </head>
+
+    <body>  
+
         <!-- Cabeçalho com título e subtítulo (ambos com css de id "titulo") -->
         <div>
             <h1 id="titulo">Cadastro de DEVs</h1>
